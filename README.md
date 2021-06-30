@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Blog: https://github.com/alexandresanlim/Badges4-README.md-Profile / https://medium.com/@natansl/criando-um-readme-para-seu-perfil-no-github-6eb119218c4-->
 
 <h1 align="left">Hi 👋, I'm Eduardo Rodrigues da Silva</h1>
-<h3 align="center">Enthusiast of the microservices architecture and web development technologies. Passionate about education, music and technologies.</h3>
+<h3 align="center">I'm a software architect and developer. Enthusiast of the microservices architecture and web development technologies. Passionate about education, music and technologies.</h3>
 
 - 🔭 I’m currently working on [It Beta (Software Factories)](dev.betait.com.br)
 
